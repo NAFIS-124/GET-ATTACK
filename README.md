@@ -1,5 +1,3 @@
-# GET-ATTACK
-
 # DDOS ATTACK
 
 apt install openjdk-17
